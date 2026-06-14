@@ -1,7 +1,7 @@
 # 🎮 GameShelf 
 Site de découverte de jeux vidéo permettant de **parcourir un catalogue**, se constituer une **bibliothèque personnelle** (à jouer / en cours / terminé), **noter et commenter** ses jeux, et suivre ses **statistiques** de type de jeux.
 
-
+Younes Boukhssaye
 ---
 
 ## 🔗 Liens
